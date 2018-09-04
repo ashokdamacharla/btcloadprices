@@ -16,7 +16,7 @@ Clone this repository.
 ```
 git clone https://github.com/ashokdamacharla/btcloadprices.git
 ```
-Import any editor or open any command prompt, move to project folder where sbt.* files are present.
+Import any editor or open any command prompt, move to project folder where *.sbt files are present.
 
 
 ### Run Data load Jobs
