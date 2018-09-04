@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running to verify t
 ### Prerequisites
 Install sbt from [here](https://www.scala-sbt.org/1.0/docs/Setup.html)
 
-Install MongoDB instance (if you don't have one for this code to run0, click [here](https://docs.mongodb.com/manual/administration/install-community/) to install it.
+Install MongoDB instance (if you don't have one for this code to run, click [here](https://docs.mongodb.com/manual/administration/install-community/) to install it.
 
 ### Setup
 Clone this repository.
